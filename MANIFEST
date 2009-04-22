@@ -2,3 +2,4 @@ lib/Jifty/Plugin/NoIE.pm
 lib/Jifty/Plugin/NoIE/View.pm
 Makefile.PL
 META.yml
+t/00-load.t
